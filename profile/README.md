@@ -1,5 +1,3 @@
-![Fathom](https://i.imgur.com/eXoH4IG.png)
-
 ![Fathom Protocol Overview](https://i.imgur.com/hGihzFJ.jpg)
 
 Fathom Protocol is a decentralized finance ecosystem built on the XDC network. The Protocol's purpose is to increase the liquidity of the XDC network and make FXD, over-collateralized and soft-pegged Stablecoin, a central part of the XDC network DeFi ecosystem.
