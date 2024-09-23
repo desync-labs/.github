@@ -1,18 +1,23 @@
-![Fathom Protocol Overview](https://i.imgur.com/hGihzFJ.jpg)
+## About Desync Labs
+
+Desync Labs was founded by a team of experienced software architects, driven by the mission to revolutionize decentralized finance. With backing from top-tier partners, Desync Labs has developed two cutting-edge protocols: Splyce, a crosschain tokenization and DeFi platform, and Fathom, a leading DeFi protocol on XDC. At Desync Labs, we see ourselves as more than just a company—our unified purpose is to harness the power of decentralization to empower individuals and drive the future of financial freedom.
+
+## About Splyce
+
+Splyce Finance focuses on bringing tokenized assets, such as ETFs, into the decentralized finance (DeFi) space. It enables these assets to move and interact like cryptocurrencies by offering permissionless and regulated access for both retail and institutional users.
+
+Splyce ETF tokens can be traded on centralized and decentralized exchanges (CEXs and DEXs) and can immediately integrate with DeFi tools, providing utility to tokenized assets in a groundbreaking way. This makes Splyce a pioneer in enabling borderless access to ETFs within DeFi ecosystems.
+
+- [Website](https://splyce.finance)
+- [Dapp](https://app.splyce.finance/)
+- [Twitter](https://twitter.com/SplyceFi)
+
+## About Fathom
 
 Fathom Protocol is a decentralized finance ecosystem built on the XDC network. The Protocol's purpose is to increase the liquidity of the XDC network and make FXD, over-collateralized and soft-pegged Stablecoin, a central part of the XDC network DeFi ecosystem.
 
-Fathom Protocol utilizes real-world assets (RWA) that can be used as collateral to mint FXD in addition to XDC, thus providing traditional asset exposures for Fathom Protocol users.
-
-Fathom's Decentralized Exchange (DEX) serves as the main trading venue for XDC and FXD, bringing additional liquidity to the XDC network. In the future, tokenized real-world assets will be traded on the Fathom DEX, further increasing the liquidity of the XDC network.
-
-Fathom's Decentralized Autonomous Organization (Fathom DAO) is an essential part of the Fathom Protocol and consists of the FTHM token, Governance, and Staking. FTHM token holders can earn in FTHM Staking rewards for their contribution to the ecosystem and gain voting power to participate in decision-making through the Governance process.
-
 The Fathom Protocol is designed to be the focal point for all DeFi needs on the XDC network, providing a secure decentralized environment for users to deploy their assets in various ways. With our innovative solutions, Fathom Protocol will play a crucial role in the future of DeFi and the XDC Network. We strongly believe in RWA and that their integration into DeFi services will benefit users while boosting growth on the XDC network.
 
-Fathom Protocol offers a complete and integrated DeFi solution for the decentralized economy by providing a stable and secure Stablecoin, a decentralized exchange, and community-driven Governance.
-
-## Resources
 - [Website](https://fathom.fi)
 - [Dapp](https://dapp.fathom.fi/)
 - [Twitter](https://twitter.com/Fathom_fi)
